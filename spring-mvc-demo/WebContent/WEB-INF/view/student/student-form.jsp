@@ -21,14 +21,24 @@
 		
 		Country: 
 		<form:select path="country">
-			<form:option value="Taipei" label="Taipei"></form:option>
-			<form:option value="France" label="France"></form:option>
-			<form:option value="India" label="India"></form:option>
-			<form:option value="England" label="England"></form:option>
+		
+			<form:options items="${student.countryOptions}"/>
 		
 		</form:select>
 		
 		<br><br>
+		
+		Favorite Language:
+		
+		<br>
+		
+		<form:radiobutton path="favoriteLanguage" value="Java" /> Java
+		<form:radiobutton path="favoriteLanguage" value="C#" /> C# 
+		<form:radiobutton path="favoriteLanguage" value="Python" /> Python
+		<form:radiobutton path="favoriteLanguage" value="GoLang" /> GoLang
+		
+		<br><br>
+		
 		
 		<input type="submit" value="submit" />
 		
