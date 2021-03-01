@@ -2,13 +2,11 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="UTF-8">
-<title>display form</title>
-</head>
-<body>
-
-<h1> display the form</h1>
-
-</body>
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	<body>
+	
+	</body>
 </html>
