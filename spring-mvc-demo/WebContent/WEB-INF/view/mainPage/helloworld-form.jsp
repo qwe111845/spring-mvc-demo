@@ -7,7 +7,7 @@
 		<title>Input Form</title>
 	</head>
 	<body>
-		<form action="processFormModel" method="GET">
+		<form action="processFormRequestParam" method="GET">
 			<input type="text" name="studentName"
 			    placeholder="What's your name?" />
 			<input type="submit" />
