@@ -11,7 +11,7 @@
 		<br>
 		<a href="request/displayForm">Display Form</a>
 		<br>
-		<a href="student/studentForm">Display Form</a>
+		<a href="student/studentForm">Student Form</a>
 	
 	</body>
 </html>

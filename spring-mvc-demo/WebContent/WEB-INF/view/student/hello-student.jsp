@@ -9,5 +9,7 @@
 	<body>
 		<h1>Hello world of Spring Student</h1>
 		<h2>Student name:${student.firstName}, ${student.lastName} </h2>
+		<h3>Student's country:${student.country} </h2>
+		
 	</body>
 </html>
