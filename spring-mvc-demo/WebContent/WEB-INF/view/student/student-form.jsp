@@ -15,7 +15,7 @@
 		
 		<br><br>
 		
-	    Lirst name: <form:input path="lastName" />
+	    Last name: <form:input path="lastName" />
 		
 		<br><br>
 		
