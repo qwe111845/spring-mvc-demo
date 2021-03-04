@@ -12,6 +12,8 @@
 	<body>
 		<h1>Hello world of Spring customer</h1>
 		<h2>customer name:${customer.firstName}, ${customer.lastName} </h2>
+		<h2>customer passes:${customer.freePasses} </h2>
+		<h2>Postal Code:${customer.postalCode} </h2>
 	
 	</body>
 </html>
